@@ -1,4 +1,6 @@
 # COMPUTATIONAL-DISCRETE-SYSTEM
+#DISCRETE STRUCTIRE PROJECT OF SEMESTER 3
+# 
 A Computational Discrete System is a menu-driven program that implements core concepts of discrete mathematics such as sets, logic, graphs, and relations. It allows users to perform operations like set manipulation, predicate evaluation, graph algorithms (Kruskal, Dijkstra), and function/relation analysis in an interactive way.
 Computational Discrete System
 Technical Documentation and User Guide
